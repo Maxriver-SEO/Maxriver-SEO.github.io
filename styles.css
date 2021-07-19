@@ -11,3 +11,8 @@ a.link-card {
 .hoverable{
     transition: 0.3s;
 }
+
+
+.link-card{
+    max-width: 200px;
+}
