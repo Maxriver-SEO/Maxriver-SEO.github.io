@@ -1,0 +1,13 @@
+a.link-card {
+    color: inherit;
+    text-decoration: none;
+}
+
+.hoverable:hover{
+    transform: scale(1.05);
+    transition: 0.3s;
+}
+
+.hoverable{
+    transition: 0.3s;
+}
